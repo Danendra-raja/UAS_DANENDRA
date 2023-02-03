@@ -15,7 +15,7 @@ $user = $session->get('username');
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="<?= base_url('');?>/assets/img/favicon.png" rel="icon">
+  <link href="<?= base_url('');?>/assets/img/stikom.jpg" rel="icon">
   <link href="<?= base_url('');?>/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
